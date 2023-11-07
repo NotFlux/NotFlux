@@ -4,5 +4,5 @@
 - Python, Javascript, HTML, C++ and c#.
 
 ### Discord
-@vamp.flux or @fwlq
+@flux !#0001
 
